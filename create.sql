@@ -68,6 +68,6 @@ cnp char(13) not null unique,
 traieste boolean 
 );
 
-select * from proprietar_5
+--select * from proprietar_5
 
 
