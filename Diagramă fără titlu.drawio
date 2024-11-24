@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.9">
   <diagram name="Pagină-1" id="ZyHIl078YkTWssfnQzEF">
-    <mxGraphModel dx="1877" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2736" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,7 +284,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2_KjIKZuuomkbfnC0Sye-47" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="2_KjIKZuuomkbfnC0Sye-44" edge="1">
+        <mxCell id="2_KjIKZuuomkbfnC0Sye-47" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="2_KjIKZuuomkbfnC0Sye-44" edge="1" source="2_KjIKZuuomkbfnC0Sye-19">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="220" y="370" as="sourcePoint" />
             <mxPoint x="320" y="270" as="targetPoint" />
@@ -814,7 +814,7 @@
         <mxCell id="pAvG4Z5IkcLZfcZRojI7-42" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2_KjIKZuuomkbfnC0Sye-69">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1540" y="110" as="sourcePoint" />
-            <mxPoint x="1310" y="460" as="targetPoint" />
+            <mxPoint x="1350" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1410" y="120" />
               <mxPoint x="1480" y="100" />
